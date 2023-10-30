@@ -1,0 +1,47 @@
+/*
+.centrar{
+    text-align: center;
+    width: 100%;
+    margin-top: 350px;
+}
+
+body{
+    background: #24303c;
+}
+
+.botonCentrar{
+    text-align: center;
+    width: 100%;
+}
+
+.contenedor{
+    background-color: rgb(255, 255, 255);
+    width: 35%;
+    height: 350px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 30px #000;
+}
+
+h3{
+    text-align: center;
+    font-family: Hack, monospace;
+    color: white;
+}
+
+.btn_ingresar{
+    margin-left: 200px;
+}
+
+
+*/
+
+
+
+body {
+    background: #CDF0EA;
+}
+.container{
+    background-color: #20c9c9;
+    border-radius: 10px;
+}
